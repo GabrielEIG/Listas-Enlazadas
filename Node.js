@@ -6,7 +6,6 @@ export class Nodee {
 
     // Constructor por defecto donde se inicializan los valores
     constructor(){
-        this.data = 0; // Inicialmente el dato es 0
         this.next = null; // Inicialmente no hay siguiente nodo
     }
 
